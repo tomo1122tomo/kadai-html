@@ -6,11 +6,13 @@
 
 header {
     background-color: #ffcccc;
+    width: 1000px;
+    margin: 0 ;
 }
 
 #wrapper{
      width: 1000px;
-    margin: 0 auto;
+    margin: 0 ;
     display: flex;
     justify-content: space-between;
 }
@@ -27,4 +29,6 @@ header {
 
 footer {
     background-color: #ffccff;
+    width: 1000px;
+    margin: 0 ;
 }
